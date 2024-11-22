@@ -1,0 +1,16 @@
+DIMENSION TABLE: numbers of processes (n) and number of resource types (m)
+5 3
+AVAILABILITY TABLE: vector (m)
+3 3 2
+ALLOCATION TABLE: matrix (n,m)
+0 1 0
+2 0 0
+3 0 2
+2 1 1
+0 0 2
+MAX TABLE: matrix (n,m)
+7 5 3
+3 2 2
+9 0 2
+2 2 2
+4 3 3
